@@ -4,6 +4,7 @@ const roles = [
     "Data Scientist",
     "Machine Learning Engineer",
     "AI/ML Enthusiast", 
+    "Software Engineer"
 ];
 
 // Name constants for cycling animation
